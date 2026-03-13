@@ -21,4 +21,12 @@ int main(){
     cout << "Masukkan nilai Matematika = ";
     cin >> nilMTK;
 
-    
+    //rerata = (nilBI+nilMTK) / 2;
+    //if (rerata >= 60)
+    //    status = "Lolos";
+    //else
+    //    status = "Gagal";
+    rerata = Rata_rata(nilBI,nilMTK);
+    //status = Status_lulus(rerata);
+
+   
