@@ -12,3 +12,8 @@ string Status_lulus(float a){
         return "Gagal";
 }
 
+int main(){
+    float nilBI,nilMTK,rerata;
+    string status;
+
+    
