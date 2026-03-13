@@ -29,4 +29,5 @@ int main(){
     rerata = Rata_rata(nilBI,nilMTK);
     //status = Status_lulus(rerata);
 
-   
+    cout << "Status kelulusan = "<<Status_lulus(rerata)<<" ,dengan nilai rerata = "<<rerata<<endl;
+}
