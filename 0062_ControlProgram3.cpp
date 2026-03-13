@@ -16,4 +16,9 @@ int main(){
     float nilBI,nilMTK,rerata;
     string status;
 
+    cout << "Masukkan nilai Bahasa Inggris = ";
+    cin >> nilBI;
+    cout << "Masukkan nilai Matematika = ";
+    cin >> nilMTK;
+
     
